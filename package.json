@@ -1,0 +1,24 @@
+{
+  "name": "at_hack",
+  "version": "1.0.0",
+  "description": "Buiding across sonic pi with AT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sonic",
+    "Pi",
+    "Nodejs",
+    "USSD",
+    "AT"
+  ],
+  "author": "Fresh_Dev",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "osc": "^2.4.4"
+  }
+}
